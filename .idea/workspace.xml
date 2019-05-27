@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a190617-2687-4b2d-8d54-9a7317e47f5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test3.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test4.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -54,6 +62,7 @@
         <option value="$PROJECT_DIR$/test1.php" />
         <option value="$PROJECT_DIR$/test2.php" />
         <option value="$PROJECT_DIR$/test3.php" />
+        <option value="$PROJECT_DIR$/test4.php" />
       </list>
     </option>
   </component>
@@ -61,9 +70,10 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="260" />
+    <option name="x" value="304" />
+    <option name="y" value="25" />
     <option name="width" value="1099" />
-    <option name="height" value="728" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -113,15 +123,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558963418786</updated>
-      <workItem from="1558963420034" duration="2140000" />
+      <workItem from="1558963420034" duration="2592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2140000" />
+    <option name="totallyTimeSpent" value="2592000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="0" width="1099" height="728" extended-state="1" />
+    <frame x="406" y="13" width="1099" height="729" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" sideWeight="0.50084037" side_tool="true" weight="0.24927816" />
@@ -166,7 +176,14 @@
     <entry file="file://$PROJECT_DIR$/test3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
